@@ -1,0 +1,9 @@
+[
+  {
+    "package": "reticulate",
+    "url": "https://github.com/rstudio/reticulate",
+    "via": ["VertexWiseR"],
+    "branch": "v1.40.0",
+    "from": "VertexWiseR"
+  }
+]

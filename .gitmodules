@@ -5,3 +5,8 @@
 [submodule "VertexWiseR"]
 	path = VertexWiseR
 	url = https://github.com/cogbrainhealthlab/vertexwiser
+[submodule "reticulate"]
+	path = reticulate
+	url = https://github.com/rstudio/reticulate
+	branch = v1.40.0
+	registered = false

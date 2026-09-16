@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FCtools"]
+	path = FCtools
+	url = https://github.com/cogbrainhealthlab/fctools
 [submodule "VertexWiseR"]
 	path = VertexWiseR
 	url = https://github.com/cogbrainhealthlab/vertexwiser
